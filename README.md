@@ -1,2 +1,2 @@
 # Chess-Engine
-Making you think smarter while playing chess
+Makes you think smarter while playing chess
